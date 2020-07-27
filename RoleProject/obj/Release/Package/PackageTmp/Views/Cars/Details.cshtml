@@ -1,0 +1,185 @@
+﻿@using RoleProject.View_Model
+@using RoleProject.Models
+@model RoleProject.Models.Car
+
+@{
+    ViewBag.Title = "Details";
+    cars_and_properties list_of_properties = ViewBag.list_of_properties;
+    int prop = list_of_properties.Property_Name.Count();
+    Dates_For_Car Dates = ViewBag.list_of_Recived_Date;
+    Model.Agince_Of_Car = ViewBag.Agince;
+    int col;
+    int start = Dates.Start_Recive.Count();
+    int end = Dates.End_Recive.Count();
+    var cars = ViewBag.Allcars;
+}
+
+
+
+
+<section class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url('../../Content/autoroad/images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-start">
+            <div class="col-md-9 ftco-animate pb-5">
+                <p class="breadcrumbs"><span class="mr-2"><a href="/">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Car details <i class="ion-ios-arrow-forward"></i></span></p>
+                <h1 class="mb-3 bread">Car Details</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ftco-section ftco-car-details">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12">
+                <div class="car-details">
+                    <div class="img" style="background-image: url('../../images/@Model.photo_Car');"></div>
+                    <div class="text text-center">
+                        <span class="subheading">@Model.Car_Brand</span>
+                        <h2>@Model.Car_Brand</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 pills">
+                <div class="bd-example bd-example-tabs">
+                    <div class="d-flex justify-content-center">
+                        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+
+                            <li class="nav-item">
+                                <a class="nav-link active" id="pills-description-tab" data-toggle="pill" href="#pills-description" role="tab" aria-controls="pills-description" aria-expanded="true">Features</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="pills-manufacturer-tab" data-toggle="pill" href="#pills-manufacturer" role="tab" aria-controls="pills-manufacturer" aria-expanded="true">Description</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="pills-review-tab" data-toggle="pill" href="#pills-review" role="tab" aria-controls="pills-review" aria-expanded="true">Reserved appointments</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-content" id="pills-tabContent">
+                        <div class="tab-pane fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
+                            <div class="row">
+                                <div class="col-md-4">
+
+                                    @for (int p = 0; p < prop; p++)
+                                    {
+                                        <ul class="features">
+                                            @{col = (p + 5) < prop ? p + 5 : prop; }
+                                            @for (int proper = p; proper < prop && proper < col; proper++)
+                                            {
+                                                <li class="check"><span class="ion-ios-checkmark"></span>@list_of_properties.Property_Name[proper]</li>
+                                                p = proper;
+
+                                            }
+
+
+
+                                        </ul>
+                                    }
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade" id="pills-manufacturer" role="tabpanel" aria-labelledby="pills-manufacturer-tab">
+                            <p>Type of Car: @Model.Type_Of_Car</p>
+                            <p>Price per day: @Model.price_in_day</p>
+                            <p>Agince Name: <a href="/Aginces/Details/@Model.Agince_ID">@Model.Agince_Of_Car.name</a></p>
+
+                        </div>
+
+                        <div class="tab-pane fade" id="pills-review" role="tabpanel" aria-labelledby="pills-review-tab">
+                            <div class="row">
+                                <div class="col-md-7">
+                                    <table class="table table-hover table-bordered">
+                                        <thead>
+                                            <tr class="text-center">
+                                                <th>Start Date</th>
+                                                <th>End Date</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+
+
+                                            @for (int s = 0, e = 0; s < start && e < end; e++, s++)
+                                            {
+                                                <tr class="text-center">
+                                                    <td>
+                                                        @Dates.Start_Recive[s]
+                                                    </td>
+                                                    <td>
+                                                        @Dates.End_Recive[s]
+                                                    </td>
+                                                </tr>
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt">
+    <div class="container-fluid px-4">
+        <div class="row justify-content-center">
+            <div class="col-md-12 heading-section text-center ftco-animate mb-5">
+                <span class="subheading">Choose Car</span>
+                <h2 class="mb-2">Related Cars</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            
+            @foreach (var item in cars)
+            {
+               
+                    <div class="col-md-3">
+                        <div class="car-wrap ftco-animate">
+                            <div class="img d-flex align-items-end" style="background-image: url(/images/@item.photo_Car);">
+                                <div class="price-wrap d-flex">
+                                    <span class="rate">$@item.price_in_day</span>
+                                    <p class="from-day">
+                                        <span>From</span>
+                                        <span>/Day</span>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="text p-4 text-center">
+                                <h2 class="mb-0"><a href="/Cars/Details/@item.Car_Id ">@item.Type_Of_Car</a></h2>
+                                <span>@item.Car_Model</span>
+
+                                <p class="d-flex mb-0 d-block">
+                                    @Html.ActionLink("Book now", "Recive", "Cars", new { id = item.Car_Id }, htmlAttributes:
+                                 new { @class = "btn btn-black btn-outline-black mr-1" })
+                                    @Html.ActionLink("Details", "Details", "Cars", new { id = item.Car_Id }, htmlAttributes:
+    new { @class = "btn btn-black btn-outline-black ml-1" })
+                                </p>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                
+            
+
+            }
+
+        </div>
+    </div>
+      
+</section>
+

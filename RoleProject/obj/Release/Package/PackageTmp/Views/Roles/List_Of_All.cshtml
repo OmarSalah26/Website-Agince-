@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Microsoft.AspNet.Identity.EntityFramework.IdentityRole>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+
+  
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Car Details</h1>
+                    @Html.ActionLink("Back ", "List_Of_All", "Cars", null, htmlAttributes: new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Create New", "Create", null, htmlAttributes: new { @class = "btn btn-primary" })
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+                <form action="#" class="request-form ftco-animate" style="width:200px">
+
+                    <table class="table table-hover">
+
+
+                        <h3> Name</h3>
+
+
+
+
+
+                        @foreach (var item in Model)
+                        {
+                    <tr>
+                      
+                            @Html.DisplayFor(Item => item.Name)
+   
+                            @Html.ActionLink("Delete", "Delete", new { id = item.Id }, htmlAttributes: new { @class = "btn btn-primary" })
+                      <hr/>
+                    </tr>
+                         
+                        }
+
+                    </table>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

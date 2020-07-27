@@ -1,0 +1,138 @@
+﻿@using RoleProject.Models
+@model  RoleProject.Models.Car
+@{
+    ViewBag.Title = "CancelRecive";
+    ReciveDate reciveDate = ViewBag.ReciveDate;
+    TempData["ReciveDate"] = reciveDate;
+    var Agince = ViewBag.Agince;
+}
+
+
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/images/@Model.photo_Car');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container" style="padding: 6px;">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">sure <span>To Cancel Recive?</span> </h1>
+
+
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex" style="width:400px">
+              
+
+
+
+
+
+
+
+
+                @using (Html.BeginForm("CancelRecive", "Cars", FormMethod.Post, new { enctype = "multipart/form-data", @class = "request-form ftco-animate" }))
+                {
+
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-group">
+                        <span style="font-weight:bold">
+                            @Html.DisplayNameFor(model => model.Type_Of_Car) :
+                        </span>
+                        @Html.DisplayFor(model => model.Type_Of_Car)
+                    </div>
+
+
+
+                    <div class="form-group">
+                        <span style="font-weight:bold">
+                            @Html.DisplayNameFor(model => model.Car_Brand) :
+                        </span>
+                        @Html.DisplayFor(model => model.Car_Brand)
+                    </div>
+
+                    <div class="form-group">
+                        <span style="font-weight:bold">
+                            @Html.DisplayNameFor(model => model.Car_Model) :
+                        </span>
+                        @Html.DisplayFor(model => model.Car_Model)
+                    </div>
+
+                    <div class="form-group">
+                        <span style="font-weight:bold">
+                            @Html.DisplayNameFor(model => model.Chassis_No) :
+                        </span>
+                        @Html.DisplayFor(model => model.Chassis_No)
+                    </div>
+
+
+                    <div class="form-group">
+                        <span style="font-weight:bold">
+                            @Html.DisplayNameFor(model => model.price_in_day) :
+                        </span>
+                        @Html.DisplayFor(model => model.price_in_day)
+                    </div>
+
+
+
+                    <div class="form-group">
+                        
+                            <span style="font-weight:bold">
+                                Agince Name :
+                            </span>
+
+                            <a href="/Aginces/Details/@Agince.Agince_ID">@Agince.name</a>
+                       
+                    </div>
+
+
+                    <div class="form-group">
+                        <span style="font-weight:bold">
+                            Client Name :
+                        </span>
+                        @reciveDate.client.Name
+                    </div>
+
+
+                    <div class="form-group">
+                        <span style="font-weight:bold">
+                            From :
+                        </span>
+                        @reciveDate.Start_Recive_Date
+                    </div>
+
+                    <div class="form-group">
+                        <span style="font-weight:bold">
+                            TO :
+                        </span>
+                        @reciveDate.End_Recive_Date
+
+                    </div>
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Cancel" class="btn btn-primary" /> 
+                       
+                        @Html.ActionLink("Don\'t Cancel", "List_Of_All",null, htmlAttributes:new { @class="btn btn-primary"})
+                    </div>
+
+                }
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+</div>
+            
+
+
+
+
+
+

@@ -1,0 +1,124 @@
+﻿@model RoleProject.Models.Car
+    @using RoleProject.Models
+@{
+    ViewBag.Title = "Displa_Reciving";
+    var agince = ViewBag.Agince;
+}
+
+
+
+<div class="hero-wrap" style="background-image: url('/images/@Model.photo_Car');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Recive Done</h1>
+
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+                <div>
+                    
+
+                    <form action="#" class="request-form ftco-animate" style="width:400px">
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.Type_Of_Car) :
+                            </span>
+
+                            @Html.DisplayFor(model => model.Type_Of_Car)
+                        </div>
+
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.Car_Brand) :
+                            </span>
+
+                            @Html.DisplayFor(model => model.Car_Brand)
+
+                        </div>
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.Car_Model) :
+                            </span>
+
+                            @Html.DisplayFor(model => model.Car_Model)
+
+
+                        </div>
+
+
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.Chassis_No) :
+                            </span>
+
+                            @Html.DisplayFor(model => model.Chassis_No)
+                        </div>
+
+
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+
+                                @Html.DisplayNameFor(model => model.price_in_day) :
+                            </span>
+
+                            @Html.DisplayFor(model => model.price_in_day)
+                        </div>
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+
+                                Start Reciving Date :
+                            </span>
+
+                            @ViewBag.startDate
+                        </div>
+
+
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                End Date:
+                            </span>
+
+                            @ViewBag.endDate
+
+                        </div>
+
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                              Agince Name :
+                            </span>
+
+                            @agince.name
+                        </div>
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+
+
+                                Client :
+                            </span>
+
+                            @ViewBag.client
+                        </div>
+                        <div class="form-group">
+                            @Html.ActionLink("Done", "List_Of_All", "Cars", null, htmlAttributes: new { @class = "btn btn-primary" })
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+

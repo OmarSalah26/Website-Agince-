@@ -1,0 +1,80 @@
+﻿@using RoleProject.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Now <span>It's easy for you</span> <span>rent a car</span></h1>
+                   
+                        <div class="heading-title ml-5">
+                            <span>Easy steps for renting a car</span>
+                        </div>
+                 
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div  class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+            
+
+
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl },
+                    FormMethod.Post, new { @class = "request-form ftco-animate", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h4 style="width:300px"> Log in.</h4>
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.UserName, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", placeholder = "UserName",style="width:300px" })
+                            @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Password" ,style="width:300px"})
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <div class="checkbox">
+                                @Html.CheckBoxFor(m => m.RememberMe)
+                                @Html.LabelFor(m => m.RememberMe)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Log in" class="btn btn-primary py-3 px-4" />
+                        </div>
+                    </div>
+                    <p>
+                        @Html.ActionLink("Register as a new user", "Register")
+                    </p>
+                    //Enable this once you have account confirmation enabled for password reset functionality
+                    <p>
+                        @Html.ActionLink("Forgot your password?", "ForgotPassword", "Account", htmlAttributes: new { @class = "text-danger" })
+                    </p>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

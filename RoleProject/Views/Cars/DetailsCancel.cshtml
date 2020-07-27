@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "DetailsCancel";
+    int id = ViewBag.CarID;
+}
+
+
+
+
+
+
+
+<div class="hero-wrap" style="background-color:black" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">DetailsCancel</h1>
+                    
+      
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+                @using (Html.BeginForm("CancelReciveFirst", "Cars", FormMethod.Post, new { @class = "request-form ftco-animate", enctype = "multipart/form-data",style="width:400px" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="form-group">
+                        <label class="control-label ">Start Recive Date</label>
+                        <br/>
+                        <div >
+                            <input type="text" name="Start_Recive_Date" id="book_pick_date" placeholder="Star Recive Date" class="form-control" />
+                        </div>
+                    </div>
+
+
+                    <input type="hidden" name="id" id="id" value="@id" />
+
+
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Cancel" class="btn btn-primary col-4" style="
+    position: relative;
+    left: 135px;
+    top: 35px;
+" />
+                            @Html.ActionLink("Back", "List_Of_All", "Cars", null, htmlAttributes: new { @class = "btn btn-primary col-4 " })
+                        </div>
+                    </div>
+
+
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+

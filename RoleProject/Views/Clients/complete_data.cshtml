@@ -1,0 +1,90 @@
+﻿@model RoleProject.Models.Client
+@{
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<link rel="stylesheet" href="~/Content/autoroad/css/css/UpladPhoto_.css">
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4"> <span>Rent your Car easyle</span> <span></span></h1>
+
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+
+
+
+                @using (Html.BeginForm("complete_data", "Clients", new { ReturnUrl = ViewBag.ReturnUrl },
+                    FormMethod.Post, new { enctype = "multipart/form-data", @class = "request-form ftco-animate", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.age, "Age", new { htmlAttributes = new { @class = "text" } })
+                        <div class="input-group dates-wrap">
+
+                            @Html.EditorFor(model => model.age, new { htmlAttributes = new { @class = "form-control  txt-field", placeholder = "Age" } })
+                            @Html.ValidationMessageFor(model => model.age, null,new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+
+                        @Html.LabelFor(model => model.number_of_licience, "number of licence", new { htmlAttributes = new { @class = "text" } })
+                        <div class="input-group dates-wrap">
+                            @Html.EditorFor(model => model.number_of_licience, new { htmlAttributes = new { @class = "form-control  txt-field", placeholder = "number of licience" } })
+                            @Html.ValidationMessageFor(model => model.number_of_licience, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group
+                        @Html.LabelFor(model => model.date_of_licience_expiry, "licience expiry date", new { htmlAttributes = new { @class = "text" } })
+                        <div class="input-group dates-wrap">
+                            @Html.EditorFor(model => model.date_of_licience_expiry, new { htmlAttributes = new { @class = "form-control ", placeholder = "@Ex : 1999/10/24" } })
+                            @Html.ValidationMessageFor(model => model.date_of_licience_expiry, "", new { @class = "text-danger" })
+
+
+                        </div>
+                        <div class="container">
+
+                            <div class="avatar-upload">
+                                <div class="avatar-edit">
+                                    <input type='file' name="photo_path" id="imageUpload" accept=".png, .jpg, .jpeg" />
+                                    <label for="imageUpload"></label>
+                                </div>
+                                <div class="avatar-preview">
+                                    <div id="imagePreview" style="background-image: url(../../Content/autoroad/images/Icon_perosn.png);">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="form-group" style=" margin-left: 13px;">
+                        <div class="col-md-offset-2 col-md-10">
+
+                            <input type="submit" value="Save" class="btn btn-primary py-3 px-4" />
+                        </div>
+                    </div>
+
+                }
+
+            </div>
+                </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Content/autoroad/js/PhotoUpload.js"></script>
+}
+
+

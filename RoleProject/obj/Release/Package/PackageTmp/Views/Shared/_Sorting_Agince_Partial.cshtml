@@ -1,0 +1,18 @@
+﻿
+
+
+
+    <div class="col-sm-4">
+
+        @using (Html.BeginForm("Go_sorting", "Aginces", FormMethod.Get))
+        {
+          
+                <select name="num" class="form-control">
+                <option value="1"> sorting by Name </option>
+                <option value="2"> sorting by City</option>
+                <option value="3"> sorting by Street</option>
+             
+            </select>
+            <input type="submit" value="Sorting" class="btn btn-danger" style="position: relative; left:350px;  bottom:34px;" />
+        }
+    </div>

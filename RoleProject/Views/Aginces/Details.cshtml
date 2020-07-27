@@ -1,0 +1,60 @@
+﻿@model RoleProject.Models.Agince
+
+    @using RoleProject.Models
+    @using RoleProject.View_Model
+  
+
+    @{
+        ViewBag.Title = "Details";
+        Recived_Cars_for_Client cars = new Recived_Cars_for_Client();
+        cars.cars = ViewBag.recived_Cars_For_Client;
+        Layout = "~/Views/Shared/_UserProfile.cshtml";
+        ViewBag.Photo = Model.photo_Agince;
+        ViewBag.Name = Model.name;
+        ViewBag.id = Model.Agince_ID;
+
+    }
+    <div id="colorlib-main">
+        <section class="ftco-section-no-padding bg-light">
+            <div class="hero-wrap">
+                <div class="overlay"></div>
+                <div class="d-flex align-items-center js-fullheight">
+                    <div class="author-image text img d-flex">
+                        <section class="home-slider js-fullheight ">
+                            <div class="slider-item js-fullheight" style="background-image:url(../../images/@Model.photo_Agince)">
+                            </div>
+
+                            <div class="slider-item js-fullheight" style="background-image:url(../../images/@Model.photo_Agince);">
+                            </div>
+                        </section>
+                    </div>
+                    <div class="author-info text p-3 p-md-5">
+                        <div class="desc">
+                            <span class="subheading">Hello  @Model.name</span>
+
+
+                            <h3 class="signature h4"> <span>Name :</span> @Model.name</h3>
+                            <h3 class="signature h4"> <span>National ID :</span> @Model.Agince_ID</h3>
+                            <h3 class="signature h4"> <span>City :</span> @Model.city</h3>
+                            <h3 class="signature h4"> <span>Street :</span> @Model.street</h3>
+                            <h3 class="signature h4"> <span>Phone Number :</span> @Model.phone_number</h3>
+                            <ul class="ftco-social mt-3">
+                                    <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                                    <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                                    <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                                </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+
+
+
+    @Html.ActionLink("ResetPassword", "ResetPassword", "Account", new { id = Model.Agince_ID }) |
+
+    @Html.ActionLink("Back to List", "List_Of_All","Cars")
+</p>

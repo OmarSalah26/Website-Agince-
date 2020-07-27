@@ -1,0 +1,84 @@
+﻿@model RoleProject.Models.Car_properties
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Car_properties</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.proprity_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.proprity_Name)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+        </div>
+    }
+</div>
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');height:1000px" data-stellar-background-ratio="0.5">
+    <div class="overlay" style="height:1000px"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Edit propert</h1>
+                    @Html.ActionLink("Back ", "List_Of_All", "Cars", null, htmlAttributes: new { @class = "btn btn-primary" })
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+
+
+
+
+                @using (Html.BeginForm("Delete", "Car_properties", FormMethod.Post, htmlAttributes: new { @class = "request-form ftco-animate " }))
+                {
+                    @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <h4>Create new Role</h4>
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.id)
+                   
+                    <div class="form-group">
+                        @Html.DisplayNameFor(model => model.proprity_Name)                       
+                        <div class="col-md-10">
+                       @Html.DisplayFor(model => model.proprity_Name)
+                                               </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Delete" class="btn btn-primary" />
+                        </div>
+                    </div>
+                </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

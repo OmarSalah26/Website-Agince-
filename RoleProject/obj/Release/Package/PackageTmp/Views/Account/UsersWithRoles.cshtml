@@ -1,0 +1,136 @@
+﻿@model IEnumerable<RoleProject.View_Model.Users_in_Role_ViewModel>
+
+@using RoleProject.Models
+
+@{
+    ApplicationDbContext applicationDbContext = new ApplicationDbContext();
+    string photo;
+
+}
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Some Options</h1>
+
+
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="ftco-section">
+    <div class="container">
+        <div class="row justify-content-center mb-5">
+
+
+            <div class="container">
+                @Html.Partial("_Search_Users_Partial")
+                <div style="position:relative;bottom: -55px;left: 45px;">
+
+                    <div class="dropdown">
+                        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" style=" z-index:1;position: relative;left: -27px;bottom: 67px;width:90px;">
+                            Sort
+                            <span class="caret"></span>
+                        </button>
+
+
+
+
+
+                        <ul class="dropdown-menu ">
+
+
+                            <li><a href="/Account/Go_sorting?num=1">UserName</a></li>
+                            <li><a href="/Account/Go_sorting?num=2">City</a></li>
+                            <li><a href="/Account/Go_sorting?num=3">Street</a></li>
+                            <li><a href="/Account/Go_sorting?num=4">Role</a></li>
+
+
+                        </ul>
+                    </div>
+
+                </div>
+                <div>
+                    @foreach (var user in Model)
+                    {
+
+                        //if(user.Role=="Agince"){
+
+                        //     photo = applicationDbContext.Agince.Find(user.UserId).photo_Agince;
+
+
+
+
+                        //}
+                        //if  ( user.Role=="Client"){
+
+                        //     photo = applicationDbContext.Client.Find(user.UserId).photo_Client;
+
+                        //}
+                        //else
+                        //{
+
+                        //photo = user.PhotoAdmin;
+
+                        @* } *@
+
+
+
+                        <section class="col-4" style="float:left">
+                            <div class="testimony-wrap text-center ">
+                                <div class="user-img mb-4" style="background-image: url('/images/@user.PhotoAdmin');margin-top: 25px;">
+                                </div>
+                                <div class="text pt-4">
+                                    <p class="mb-4">Name : @user.Username</p>
+                                    <p class="mb-4"> National Id : @user.UserId</p>
+                                    <p class="mb-4">Email : @user.Email</p>
+                                    <p class="mb-4">City : @user.city</p>
+                                    <p class="mb-4">Street : @user.street</p>
+                                    <p class="mb-4"> Phone : @user.phone_number</p>
+
+                                    <span>@user.Role</span>
+
+                                    @*@if (user.Role == "Agince")
+
+                                        {@Html.ActionLink("Delete", "Delete", "Aginces", new { id = user.UserId })}
+                                        @if (user.Role == "Client")
+                                        {@Html.ActionLink("Delete", "Delete", "Clients", new { id = user.UserId })}
+                                        @if (user.Role == "Admin")*@
+
+                                    @*<div>
+                                            @Html.ActionLink("Delete", "Delete", new { id = user.UserId })
+                                        </div>*@
+                                    @*<div>
+                                            @if (user.Role == "Admin")
+                                            {@Html.ActionLink("Edit", "Edit", new { id = user.UserId })}
+
+                                        </div>*@
+                                </div>
+                            </div>
+                        </section>
+
+
+
+
+                    }
+
+            
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>

@@ -1,0 +1,57 @@
+﻿<link rel="stylesheet" href="~/Content/autoroad/css/css/UpladPhoto_.css">
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Welcom <span>In your Agince Website</span> <span></span></h1>
+
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+
+
+
+                @using (Html.BeginForm("complete_data", "Aginces", new { ReturnUrl = ViewBag.ReturnUrl },
+                    FormMethod.Post, new { enctype = "multipart/form-data", @class = "request-form ftco-animate", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="container" style="Margin-top:-212px;">
+
+                        <div class="avatar-upload">
+                            <div class="avatar-edit">
+                                <input type='file' name="photo_path" id="imageUpload" accept=".png, .jpg, .jpeg" />
+                                <label for="imageUpload"></label>
+                            </div>
+                            <div class="avatar-preview">
+                                <div id="imagePreview" style="background-image: url(../../Content/autoroad/images/Icon_perosn.png);">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group" style=" margin-left: 13px;">
+                        <div class="col-md-offset-2 col-md-10">
+
+                            <input type="submit" value="Save" class="btn btn-primary py-3 px-4" />
+                        </div>
+                    </div>
+
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Content/autoroad/js/PhotoUpload.js"></script>
+}

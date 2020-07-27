@@ -1,0 +1,49 @@
+﻿@using RoleProject.Models
+@using RoleProject.View_Model
+@model RoleProject.Models.Client
+
+@{
+    ViewBag.Title = "Details";
+    Recived_Cars_for_Client cars = new Recived_Cars_for_Client();
+    cars.cars = ViewBag.recived_Cars_For_Client;
+    Layout = "~/Views/Shared/_UserProfile.cshtml";
+    ViewBag.Photo = Model.photo_Client;
+    ViewBag.Name = Model.Name;
+     ViewBag.id = Model.Client_ID;
+
+}
+    <div id="colorlib-main">
+        <section class="ftco-section-no-padding bg-light">
+            <div class="hero-wrap">
+                <div class="overlay"></div>
+                <div class="d-flex align-items-center js-fullheight">
+                    <div class="author-image text img d-flex">
+                        <section class="home-slider js-fullheight owl-carousel">
+                            <div class="slider-item js-fullheight" style="background-image:url(../../images/@Model.photo_Client)">
+                            </div>
+
+                            <div class="slider-item js-fullheight" style="background-image:url(../../images/@Model.photo_Client);">
+                            </div>
+                        </section>
+                    </div>
+                    <div class="author-info text p-3 p-md-5">
+                        <div class="desc">
+                            <span class="subheading">Hello @Model.Name</span>
+
+                            
+                            <h3 class="signature h4"> <span>Name :</span> @Model.Name</h3>
+                            <h3 class="signature h4"> <span>National ID :</span> @Model.Client_ID</h3>
+                            <h3 class="signature h4"> <span>Age :</span> @Model.age</h3>
+                            <h3 class="signature h4"> <span>Number Of Liciences :</span> @Model.number_of_licience</h3>
+                            <h3 class="signature h4"> <span>Date Of Licience Expiry :</span> @Model.date_of_licience_expiry</h3>
+             
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+      
+       
+    </div>
+
+

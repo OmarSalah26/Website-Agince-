@@ -1,0 +1,108 @@
+﻿@model RoleProject.Models.Client
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay" ></div>
+    <div class="container" style="padding: 6px;">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">
+                        Are you sure you want to delete this?
+                    </h1>
+
+
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+
+
+
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl },
+                    FormMethod.Post, new { @class = "request-form ftco-animate", role = "form" , style="width:350px" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h4>Clinet</h4>
+                    <hr />
+             
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.Name)  :
+                            </span>
+
+
+                            @Html.DisplayFor(model => model.Name)
+                        </div>
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+
+                                @Html.DisplayNameFor(model => model.age) :
+                            </span>
+
+
+                            @Html.DisplayFor(model => model.age)
+                        </div>
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.number_of_licience) :
+                            </span>
+                            @Html.DisplayFor(model => model.number_of_licience)
+
+                        </div>
+
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.date_of_licience_expiry) :
+                            </span>
+                            @Html.DisplayFor(model => model.date_of_licience_expiry)
+
+                        </div>
+
+
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.phone_Number) :
+                            </span>
+                            @Html.DisplayFor(model => model.phone_Number)
+
+                        </div>
+
+
+
+
+                        <div class="form-group">
+                            <span style="font-weight:bold">
+                                @Html.DisplayNameFor(model => model.city) :
+                            </span>
+                            @Html.DisplayFor(model => model.city)
+
+                        </div>
+
+
+                   
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Delete" class="btn btn-primary py-3 px-4 " style="padding:50px" />
+                        </div>
+                    </div>
+
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

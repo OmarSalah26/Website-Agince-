@@ -1,0 +1,1509 @@
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\RoleProject.dll.config
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\RoleProject.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\RoleProject.pdb
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\csc.exe
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\csc.exe.config
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\csc.rsp
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\csi.exe
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\csi.exe.config
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\csi.rsp
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.AppContext.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Console.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\vbc.exe
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\vbc.exe.config
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\vbc.rsp
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Antlr3.Runtime.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\EntityFramework.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Newtonsoft.Json.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Owin.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.Helpers.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.Mvc.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.Optimization.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.Razor.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.WebPages.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\WebGrease.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.Helpers.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.Mvc.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.Optimization.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.Razor.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.WebPages.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Newtonsoft.Json.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Antlr3.Runtime.pdb
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\EntityFramework.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\obj\Debug\RoleProject.dll
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\obj\Debug\RoleProject.pdb
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+C:\Users\Microsoft\source\repos\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\RoleProject.dll.config
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\RoleProject.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\RoleProject.pdb
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\csc.exe
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\csc.exe.config
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\csc.rsp
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\csi.exe
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\csi.exe.config
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\csi.rsp
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.AppContext.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Console.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\vbc.exe
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\vbc.exe.config
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\vbc.rsp
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Antlr3.Runtime.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\EntityFramework.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\EntityFramework.SqlServer.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Newtonsoft.Json.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Owin.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.Helpers.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.Mvc.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.Optimization.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.Razor.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\WebGrease.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.Helpers.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.Mvc.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.Optimization.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.Razor.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Newtonsoft.Json.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Antlr3.Runtime.pdb
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\EntityFramework.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\EntityFramework.SqlServer.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.dll
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.pdb
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.Migrations.mymig2.resources
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\RoleProject.dll.config
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\RoleProject.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\RoleProject.pdb
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\csc.exe
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\csc.exe.config
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\csc.rsp
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\csi.exe
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\csi.exe.config
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\csi.rsp
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.AppContext.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Console.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\vbc.exe
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\vbc.exe.config
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\vbc.rsp
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Antlr3.Runtime.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\EntityFramework.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\EntityFramework.SqlServer.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Newtonsoft.Json.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Owin.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.Helpers.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.Mvc.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.Optimization.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.Razor.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\WebGrease.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.Helpers.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.Mvc.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.Optimization.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.Razor.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Newtonsoft.Json.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Antlr3.Runtime.pdb
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\EntityFramework.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\EntityFramework.SqlServer.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.Migrations.mymig2.resources
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.dll
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.pdb
+C:\Users\LEGION\Desktop\websieTest\ttttttt\RoleProject\obj\Debug\RoleProject.Migrations.mymig3.resources
+G:\TTTTT\ttttttt\RoleProject\bin\RoleProject.dll.config
+G:\TTTTT\ttttttt\RoleProject\bin\RoleProject.dll
+G:\TTTTT\ttttttt\RoleProject\bin\RoleProject.pdb
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\csc.exe
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\csc.exe.config
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\csc.rsp
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\csi.exe
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\csi.exe.config
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\csi.rsp
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.AppContext.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Console.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.IO.Compression.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.IO.Pipes.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Security.Claims.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.ValueTuple.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Xml.XPath.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\vbc.exe
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\vbc.exe.config
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\vbc.rsp
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\VBCSCompiler.exe
+G:\TTTTT\ttttttt\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+G:\TTTTT\ttttttt\RoleProject\bin\Antlr3.Runtime.dll
+G:\TTTTT\ttttttt\RoleProject\bin\EntityFramework.dll
+G:\TTTTT\ttttttt\RoleProject\bin\EntityFramework.SqlServer.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Newtonsoft.Json.dll
+G:\TTTTT\ttttttt\RoleProject\bin\Owin.dll
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.Helpers.dll
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.Mvc.dll
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.Optimization.dll
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.Razor.dll
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.WebPages.Deployment.dll
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.WebPages.dll
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.WebPages.Razor.dll
+G:\TTTTT\ttttttt\RoleProject\bin\WebGrease.dll
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.Helpers.xml
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.Mvc.xml
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.Optimization.xml
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.Razor.xml
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.WebPages.xml
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.WebPages.Deployment.xml
+G:\TTTTT\ttttttt\RoleProject\bin\System.Web.WebPages.Razor.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Newtonsoft.Json.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Antlr3.Runtime.pdb
+G:\TTTTT\ttttttt\RoleProject\bin\EntityFramework.xml
+G:\TTTTT\ttttttt\RoleProject\bin\EntityFramework.SqlServer.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+G:\TTTTT\ttttttt\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\TTTTT\ttttttt\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+G:\TTTTT\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+G:\TTTTT\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+G:\TTTTT\ttttttt\RoleProject\obj\Debug\RoleProject.dll
+G:\TTTTT\ttttttt\RoleProject\obj\Debug\RoleProject.pdb
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\RoleProject.dll.config
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\RoleProject.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\RoleProject.pdb
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\EntityFramework.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Owin.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\WebGrease.dll
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\EntityFramework.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LEGION\Desktop\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\RoleProject.dll.config
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\RoleProject.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\RoleProject.pdb
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\csc.exe
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\csi.exe
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\EntityFramework.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Owin.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\WebGrease.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\EntityFramework.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+G:\TTTTT\ttttttt\RoleProject\obj\Debug\RoleProject.Migrations.migration.resources
+G:\TTTTT\ttttttt\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+<<<<<<< HEAD
+=======
+G:\TTTTT\ttttttt\RoleProject\obj\Debug\RoleProject.Migrations.migration1.resources
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.migration.resources
+C:\Users\LEGION\Desktop\New folder (2)\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.migration1.resources
+>>>>>>> bbfcca00f8948bd2ae332f75031ce15ed2a6797a
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\RoleProject.dll.config
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\RoleProject.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\RoleProject.pdb
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\EntityFramework.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Owin.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\WebGrease.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\EntityFramework.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig1.resources
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymighiddenpass.resources
+C:\Users\LEGION\Desktop\testproject\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymighi.resources
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll.config
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.pdb
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Owin.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\WebGrease.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymighiddenpass.resources
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig1.resources
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+C:\Users\LEGION\Desktop\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll.config
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.pdb
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Owin.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\WebGrease.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymighiddenpass.resources
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig1.resources
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+D:\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll.config
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.pdb
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Owin.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\WebGrease.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+D:\AginceProject\final project side omar\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll.config
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.pdb
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Owin.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\WebGrease.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+D:\AginceProject\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll.config
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\RoleProject.pdb
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Owin.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\WebGrease.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+G:\TTTTTT2\final project side omar_tamplate\final project side omar\New folder\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+D:\Website-Agince\RoleProject\bin\RoleProject.dll.config
+D:\Website-Agince\RoleProject\bin\RoleProject.dll
+D:\Website-Agince\RoleProject\bin\RoleProject.pdb
+D:\Website-Agince\RoleProject\bin\roslyn\csc.exe
+D:\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+D:\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+D:\Website-Agince\RoleProject\bin\roslyn\csi.exe
+D:\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+D:\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+D:\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+D:\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+D:\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+D:\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+D:\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+D:\Website-Agince\RoleProject\bin\EntityFramework.dll
+D:\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+D:\Website-Agince\RoleProject\bin\Owin.dll
+D:\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+D:\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+D:\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+D:\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+D:\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+D:\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+D:\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+D:\Website-Agince\RoleProject\bin\WebGrease.dll
+D:\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+D:\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+D:\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+D:\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+D:\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+D:\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+D:\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+D:\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+D:\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+D:\Website-Agince\RoleProject\bin\EntityFramework.xml
+D:\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+D:\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+D:\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+D:\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+D:\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb
+D:\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+D:\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\RoleProject.dll.config
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\RoleProject.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\RoleProject.pdb
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\csc.exe
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\csc.exe.config
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\csc.rsp
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\csi.exe
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\csi.exe.config
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\csi.rsp
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.AppContext.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Console.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.IO.Compression.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.IO.Pipes.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Security.Claims.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.ValueTuple.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\vbc.exe
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\vbc.exe.config
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\vbc.rsp
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Antlr3.Runtime.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\EntityFramework.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Newtonsoft.Json.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Owin.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.Helpers.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.Mvc.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.Optimization.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.Razor.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.WebPages.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\WebGrease.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.Helpers.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.Mvc.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.Optimization.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.Razor.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.WebPages.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.WebPages.Deployment.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\System.Web.WebPages.Razor.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Newtonsoft.Json.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Antlr3.Runtime.pdb
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\EntityFramework.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\EntityFramework.SqlServer.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\obj\Debug\RoleProject.csprojAssemblyReference.cache
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\obj\Debug\RoleProject.Migrations.mymig.resources
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.GenerateResource.cache
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CoreCompileInputs.cache
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\obj\Debug\RoleProject.csproj.CopyComplete
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\obj\Debug\RoleProject.dll
+D:\Study\projects\Website-Agince\Website-Agince\RoleProject\obj\Debug\RoleProject.pdb

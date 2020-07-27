@@ -1,0 +1,25 @@
+﻿@model IEnumerable<RoleProject.Models.Car_properties>
+
+
+
+    <div class="col-sm-4">
+        @using (Html.BeginForm("go_filter", "Cars", FormMethod.Get))
+        {
+
+
+
+
+
+
+            <select name="prop_name" class="form-control">
+                @foreach (var item in Model)
+                {
+
+
+                    <option value="@item.proprity_Name">  @item.proprity_Name </option>
+                }
+
+            </select>
+            <input type="submit" value="Filter" class="form-control btn btn-primary" />
+        }
+    </div>

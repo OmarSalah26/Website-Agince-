@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\LEGION\Desktop\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/RoleProject.dll">
+      <publishTime>12/12/2019 12:43:42</publishTime>
+    </File>
+    <File Include="bin/RoleProject.pdb">
+      <publishTime>12/12/2019 12:43:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>08/18/2019 12:32:08</publishTime>
+    </File>
+    <File Include="Content/autoroad/.DS_Store">
+      <publishTime>09/06/2019 17:51:00</publishTime>
+    </File>
+    <File Include="Content/autoroad/about.html">
+      <publishTime>09/06/2019 17:49:54</publishTime>
+    </File>
+    <File Include="Content/autoroad/blog-single.html">
+      <publishTime>09/06/2019 17:49:54</publishTime>
+    </File>
+    <File Include="Content/autoroad/blog.html">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/car-single.html">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/car.html">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/contact.html">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/ajax-loader.gif">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/animate.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/aos.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/bootstrap-datepicker.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/bootstrap.min.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/bootstrap/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/bootstrap/bootstrap-grid.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/bootstrap/bootstrap-reboot.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/css/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/css/bootstrap-reboot.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/css/mixins/_text-hide.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/flaticon.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/icomoon.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/ionicons.min.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/jquery.timepicker.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/magnific-popup.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/open-iconic-bootstrap.min.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/owl.carousel.min.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/owl.theme.default.min.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/css/style.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/Error/css/style.css">
+      <publishTime>09/17/2019 18:18:17</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/backup.txt">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/font/flaticon.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/font/Flaticon.eot">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/font/flaticon.html">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/font/Flaticon.svg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/font/Flaticon.ttf">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/font/Flaticon.woff">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/font/Flaticon.woff2">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/font/_flaticon.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/flaticon/license/license.pdf">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/icomoon/icomoon.eot">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/icomoon/icomoon.svg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/icomoon/icomoon.ttf">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/icomoon/icomoon.woff">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/ionicons/css/ionicons.min.css">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/ionicons/css/_ionicons.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/ionicons/fonts/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/ionicons/fonts/ionicons.eot">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/ionicons/fonts/ionicons.svg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/ionicons/fonts/ionicons.ttf">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/ionicons/fonts/ionicons.woff">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/ionicons/fonts/ionicons.woff2">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/open-iconic/open-iconic.eot">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/open-iconic/open-iconic.otf">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/open-iconic/open-iconic.svg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/open-iconic/open-iconic.ttf">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/fonts/open-iconic/open-iconic.woff">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/about.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/bg_1.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/bg_2.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-1.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-10.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-11.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-12.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-2.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-3.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-4.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-5.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-6.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-7.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-8.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/car-9.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/iconCar.jpg">
+      <publishTime>09/17/2019 13:59:12</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/Icon_perosn.png">
+      <publishTime>09/17/2019 11:58:01</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/image_1.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/image_2.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/image_3.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/image_4.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/image_5.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/image_6.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/loc.png">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/person_1.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/person_2.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/person_3.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/images/person_4.jpg">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/index.html">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/aos.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/bootstrap-datepicker.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/bootstrap.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/google-map.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery-3.2.1.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery-migrate-3.0.1.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery.animateNumber.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery.easing.1.3.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery.magnific-popup.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery.stellar.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery.timepicker.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/jquery.waypoints.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/main.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/owl.carousel.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/popper.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/range.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/js/scrollax.min.js">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/prepros-6.config">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/pricing.html">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/.DS_Store">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/bootstrap-grid.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/bootstrap-reboot.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/bootstrap.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_alert.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_background-variant.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_badge.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_border-radius.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_box-shadow.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_breakpoints.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_buttons.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_caret.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_clearfix.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_float.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_forms.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_gradients.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_grid-framework.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_grid.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_hover.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_image.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_list-group.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_lists.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_nav-divider.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_pagination.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_reset-text.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_resize.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_screen-reader.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_size.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_table-row.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_text-emphasis.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_text-hide.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_text-truncate.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_transition.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/mixins/_visibility.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_align.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_background.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_borders.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_clearfix.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_display.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_embed.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_flex.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_float.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_overflow.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_position.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_screenreaders.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_shadows.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_sizing.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_spacing.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_text.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/utilities/_visibility.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_alert.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_badge.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_breadcrumb.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_button-group.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_buttons.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_card.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_carousel.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_close.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_code.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_custom-forms.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_dropdown.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_forms.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_functions.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_grid.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_images.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_input-group.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_jumbotron.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_list-group.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_media.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_mixins.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_modal.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_nav.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_navbar.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_pagination.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_popover.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_print.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_progress.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_reboot.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_root.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_spinners.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_tables.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_toasts.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_tooltip.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_transitions.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_type.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_utilities.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/bootstrap/_variables.scss">
+      <publishTime>09/06/2019 17:49:56</publishTime>
+    </File>
+    <File Include="Content/autoroad/scss/style.scss">
+      <publishTime>09/07/2019 13:43:50</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.map">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.map">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.min.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Views/Account/complete_data.cshtml">
+      <publishTime>09/17/2019 01:08:48</publishTime>
+    </File>
+    <File Include="Views/Account/ConfirmEmail.cshtml">
+      <publishTime>09/14/2019 14:03:50</publishTime>
+    </File>
+    <File Include="Views/Account/Delete.cshtml">
+      <publishTime>09/17/2019 16:32:46</publishTime>
+    </File>
+    <File Include="Views/Account/Details.cshtml">
+      <publishTime>09/14/2019 16:38:34</publishTime>
+    </File>
+    <File Include="Views/Account/Edit.cshtml">
+      <publishTime>09/17/2019 12:06:50</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginConfirmation.cshtml">
+      <publishTime>09/14/2019 14:03:52</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginFailure.cshtml">
+      <publishTime>09/14/2019 14:03:52</publishTime>
+    </File>
+    <File Include="Views/Account/ForgotPassword.cshtml">
+      <publishTime>09/14/2019 14:03:52</publishTime>
+    </File>
+    <File Include="Views/Account/ForgotPasswordConfirmation.cshtml">
+      <publishTime>09/14/2019 14:03:52</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>09/14/2019 14:03:52</publishTime>
+    </File>
+    <File Include="Views/Account/Register.cshtml">
+      <publishTime>09/17/2019 00:43:38</publishTime>
+    </File>
+    <File Include="Views/Account/ResetPassword.cshtml">
+      <publishTime>09/14/2019 14:03:54</publishTime>
+    </File>
+    <File Include="Views/Account/ResetPasswordConfirmation.cshtml">
+      <publishTime>09/14/2019 14:03:54</publishTime>
+    </File>
+    <File Include="Views/Account/SendCode.cshtml">
+      <publishTime>09/14/2019 14:03:54</publishTime>
+    </File>
+    <File Include="Views/Account/UsersWithRoles.cshtml">
+      <publishTime>09/18/2019 08:07:57</publishTime>
+    </File>
+    <File Include="Views/Account/VerifyCode.cshtml">
+      <publishTime>09/14/2019 14:03:58</publishTime>
+    </File>
+    <File Include="Views/Account/_ExternalLoginsListPartial.cshtml">
+      <publishTime>09/14/2019 14:21:24</publishTime>
+    </File>
+    <File Include="Views/Aginces/AginceToUser.cshtml">
+      <publishTime>09/18/2019 07:12:41</publishTime>
+    </File>
+    <File Include="Views/Aginces/complete_data.cshtml">
+      <publishTime>09/14/2019 15:33:02</publishTime>
+    </File>
+    <File Include="Views/Aginces/Create.cshtml">
+      <publishTime>09/17/2019 01:22:28</publishTime>
+    </File>
+    <File Include="Views/Aginces/Delete.cshtml">
+      <publishTime>09/17/2019 01:08:50</publishTime>
+    </File>
+    <File Include="Views/Aginces/Details.cshtml">
+      <publishTime>09/17/2019 18:56:35</publishTime>
+    </File>
+    <File Include="Views/Aginces/Edit.cshtml">
+      <publishTime>09/17/2019 12:12:13</publishTime>
+    </File>
+    <File Include="Views/Aginces/List_Of_All.cshtml">
+      <publishTime>09/17/2019 18:54:05</publishTime>
+    </File>
+    <File Include="Views/Aginces/Report.cshtml">
+      <publishTime>09/17/2019 17:53:20</publishTime>
+    </File>
+    <File Include="Views/Cars/bill.cshtml">
+      <publishTime>09/13/2019 21:49:18</publishTime>
+    </File>
+    <File Include="Views/Cars/CancelRecive.cshtml">
+      <publishTime>09/15/2019 14:45:28</publishTime>
+    </File>
+    <File Include="Views/Cars/Car_Not_Found.cshtml">
+      <publishTime>09/13/2019 18:31:44</publishTime>
+    </File>
+    <File Include="Views/Cars/Create.cshtml">
+      <publishTime>09/17/2019 14:02:25</publishTime>
+    </File>
+    <File Include="Views/Cars/Delete.cshtml">
+      <publishTime>09/09/2019 21:25:04</publishTime>
+    </File>
+    <File Include="Views/Cars/Details.cshtml">
+      <publishTime>09/17/2019 18:47:41</publishTime>
+    </File>
+    <File Include="Views/Cars/Displa_Reciving.cshtml">
+      <publishTime>09/17/2019 01:08:50</publishTime>
+    </File>
+    <File Include="Views/Cars/Edit.cshtml">
+      <publishTime>09/17/2019 13:59:33</publishTime>
+    </File>
+    <File Include="Views/Cars/List_Of_All.cshtml">
+      <publishTime>09/18/2019 07:08:08</publishTime>
+    </File>
+    <File Include="Views/Cars/Recive.cshtml">
+      <publishTime>09/17/2019 17:44:57</publishTime>
+    </File>
+    <File Include="Views/Cars/Recive_Not_Done_Yet.cshtml">
+      <publishTime>09/13/2019 21:39:48</publishTime>
+    </File>
+    <File Include="Views/Car_Properties/Create.cshtml">
+      <publishTime>09/17/2019 16:32:46</publishTime>
+    </File>
+    <File Include="Views/Car_Properties/Delete.cshtml">
+      <publishTime>09/17/2019 16:32:46</publishTime>
+    </File>
+    <File Include="Views/Car_Properties/Edit.cshtml">
+      <publishTime>09/17/2019 16:32:46</publishTime>
+    </File>
+    <File Include="Views/Car_Properties/List_Of_All.cshtml">
+      <publishTime>09/18/2019 06:46:26</publishTime>
+    </File>
+    <File Include="Views/Clients/complete_data.cshtml">
+      <publishTime>09/17/2019 17:43:27</publishTime>
+    </File>
+    <File Include="Views/Clients/Create.cshtml">
+      <publishTime>09/17/2019 01:08:50</publishTime>
+    </File>
+    <File Include="Views/Clients/Delete.cshtml">
+      <publishTime>09/12/2019 19:17:32</publishTime>
+    </File>
+    <File Include="Views/Clients/Details.cshtml">
+      <publishTime>09/17/2019 18:57:04</publishTime>
+    </File>
+    <File Include="Views/Clients/Edit.cshtml">
+      <publishTime>09/17/2019 12:06:52</publishTime>
+    </File>
+    <File Include="Views/Clients/List_Of_All.cshtml">
+      <publishTime>09/17/2019 16:32:46</publishTime>
+    </File>
+    <File Include="Views/HomeFolder/AboutUs.cshtml">
+      <publishTime>09/17/2019 17:51:12</publishTime>
+    </File>
+    <File Include="Views/HomeFolder/Contact.cshtml">
+      <publishTime>09/16/2019 20:40:36</publishTime>
+    </File>
+    <File Include="Views/HomeFolder/error.cshtml">
+      <publishTime>09/17/2019 18:43:16</publishTime>
+    </File>
+    <File Include="Views/HomeFolder/index.cshtml">
+      <publishTime>09/17/2019 11:17:33</publishTime>
+    </File>
+    <File Include="Views/Manage/AddPhoneNumber.cshtml">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Views/Manage/ChangePassword.cshtml">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Views/Manage/Index.cshtml">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Views/Manage/ManageLogins.cshtml">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Views/Manage/SetPassword.cshtml">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Views/Manage/VerifyPhoneNumber.cshtml">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Views/Roles/Create.cshtml">
+      <publishTime>09/14/2019 17:27:48</publishTime>
+    </File>
+    <File Include="Views/Roles/Delete.cshtml">
+      <publishTime>09/14/2019 17:32:54</publishTime>
+    </File>
+    <File Include="Views/Roles/List_Of_All.cshtml">
+      <publishTime>09/14/2019 17:29:02</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>09/14/2019 14:22:18</publishTime>
+    </File>
+    <File Include="Views/Shared/Lockout.cshtml">
+      <publishTime>09/14/2019 14:22:18</publishTime>
+    </File>
+    <File Include="Views/Shared/Recive_Alredy_Done.cshtml">
+      <publishTime>09/15/2019 12:39:46</publishTime>
+    </File>
+    <File Include="Views/Shared/SearchError.cshtml">
+      <publishTime>09/17/2019 01:08:50</publishTime>
+    </File>
+    <File Include="Views/Shared/_CustomLayout.cshtml">
+      <publishTime>09/14/2019 17:02:28</publishTime>
+    </File>
+    <File Include="Views/Shared/_filter_Car.cshtml">
+      <publishTime>09/17/2019 01:08:50</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/14/2019 14:22:18</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>09/17/2019 12:01:38</publishTime>
+    </File>
+    <File Include="Views/Shared/_MyLayout.cshtml">
+      <publishTime>09/18/2019 07:10:20</publishTime>
+    </File>
+    <File Include="Views/Shared/_Search_Aginces_Partial.cshtml">
+      <publishTime>09/17/2019 12:36:57</publishTime>
+    </File>
+    <File Include="Views/Shared/_Search_Car_By_Chassia_Partial.cshtml">
+      <publishTime>09/17/2019 13:27:32</publishTime>
+    </File>
+    <File Include="Views/Shared/_Search_Car_Partial.cshtml">
+      <publishTime>09/17/2019 01:08:50</publishTime>
+    </File>
+    <File Include="Views/Shared/_Search_Client_Partial.cshtml">
+      <publishTime>09/14/2019 14:22:18</publishTime>
+    </File>
+    <File Include="Views/Shared/_Search_Users_Partial.cshtml">
+      <publishTime>09/14/2019 17:07:28</publishTime>
+    </File>
+    <File Include="Views/Shared/_Sorting_Agince_Partial.cshtml">
+      <publishTime>09/17/2019 12:24:18</publishTime>
+    </File>
+    <File Include="Views/Shared/_Sorting_clinet_Partial.cshtml">
+      <publishTime>09/14/2019 14:22:18</publishTime>
+    </File>
+    <File Include="Views/Shared/_Sorting_Users_Partial.cshtml">
+      <publishTime>09/14/2019 14:22:18</publishTime>
+    </File>
+    <File Include="Views/Shared/_startPage_partial.cshtml">
+      <publishTime>09/14/2019 14:22:18</publishTime>
+    </File>
+    <File Include="Views/Shared/_UserProfile.cshtml">
+      <publishTime>09/17/2019 18:52:01</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>08/18/2019 12:32:06</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/06/2019 18:01:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/12/2019 12:43:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

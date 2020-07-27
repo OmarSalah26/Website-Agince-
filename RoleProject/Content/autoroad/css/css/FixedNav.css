@@ -1,0 +1,32 @@
+﻿body {
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+    color:black;
+}
+.ftco-navbar-light .navbar-brand {
+    color:black;
+}
+.container>.navbar-brand {
+    margin-top: -16px;
+}
+.divfixed {
+    background: #fff !important;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    color: black;
+    background-position-x: center;
+    height: 70px;
+  
+}
+.container > .collapse.navbar-collapse {
+    margin-top: -26px;
+
+}
+
+.container > .collapse.navbar-collapse > ul > li.nav-link > a:hover {
+    color: black;
+}
+.navbar.navbar-expand-lg.navbar-dark.ftco_navbar.bg-dark.ftco-navbar-light.scrolled.awake > .container > .collapse.navbar-collapse {
+    margin-top: 4px;
+    
+}

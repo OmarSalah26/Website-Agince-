@@ -1,0 +1,70 @@
+﻿@model RoleProject.Models.ApplicationUser
+
+
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Account Details</h1>
+                   
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+                <form action="#" class="request-form ftco-animate">
+
+
+                    <div class="form-group">
+
+                      
+                            @Html.DisplayNameFor(model => model.Id) :
+                       
+                            @Html.DisplayFor(model => model.Id)
+                       
+
+                    </div>
+                    <div class="form-group">
+                        
+                            @Html.DisplayNameFor(model => model.UserName) :
+                      
+                            @Html.DisplayFor(model => model.UserName)
+                    
+                    </div>
+                   
+                        <div class="form-group ">
+                            @Html.DisplayNameFor(model => model.PhoneNumber) :
+                           
+                                @Html.DisplayFor(model => model.PhoneNumber)
+                            
+                        </div>
+                        <div class="form-group ">
+                            
+                                @Html.DisplayNameFor(model => model.city) :
+                            
+                                @Html.DisplayFor(model => model.city)
+                         
+                      
+                    </div>
+                        <div class="form-group">
+                        
+                                @Html.DisplayNameFor(model => model.street) :
+                           
+                                @Html.DisplayFor(model => model.street)
+                            
+                        </div>
+                        <div class="form-group">
+                            @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+                            @Html.ActionLink("ResetPassword", "ResetPassword", "Account", new { id = Model.Id }) |
+                            @Html.ActionLink("Back to List Of All", "UsersWithRoles")
+                        </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

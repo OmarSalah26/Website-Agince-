@@ -1,0 +1,68 @@
+﻿
+@model RoleProject.Models.Car
+@using RoleProject.Models
+@{
+    ViewBag.Title = "Recive";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+    ReciveDate start=new  ReciveDate();
+    
+}
+
+
+
+<div class="hero-wrap" style="background-image: url('/images/@Model.photo_Car');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Now <span>It's easy for you</span> <span>rent a car</span></h1>
+
+
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+
+                @using (Html.BeginForm("Recive", "Cars", FormMethod.Post, new { @class = "request-form ftco-animate", role = "form", enctype = "multipart/form-data", autocomplete = "off" }))
+                {
+
+                    @Html.AntiForgeryToken()
+                    <h2>Make your trip</h2>
+                    <div class="form-group">
+                        <div class="col-md-10">
+                            @Html.HiddenFor(model => model.Car_Id)
+
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="" class="label">Pick-up date</label>
+
+                        <input type="text" name="Start_Recive_Date" class="form-control" id="book_pick_date" placeholder="Date" style="width:300px" required>
+
+
+                        @Html.ValidationMessage("Start_Recive_Date", "", new { @class = "text-danger" })
+
+                    </div>
+                    <div class="form-group">
+                        <label for="" class="label">Drop-off date</label>
+                        <input type="text" name="End_Recive_Date" class="form-control" id="book_off_date" placeholder="Date" required>
+                        @Html.ValidationMessage("End_Recive_Date", "", new { @class = "text-danger" })
+                    </div>
+
+
+                    <div class="form-group">
+                        <input type="submit" value="Comfirm Book" class="btn btn-primary py-3 px-4">
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Content/autoroad/js/PhotoUpload.js"></script>
+}

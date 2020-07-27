@@ -1,0 +1,96 @@
+﻿
+   
+
+
+
+        @using (Html.BeginForm("Go_Search_byName", "Aginces", FormMethod.Get))
+        {
+
+
+
+
+
+
+
+                <section class="ftco-section ftco-no-pb ftco-no-pt">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="search-wrap-1 ftco-animate mb-5">
+                                    <form action="#" class="search-property-1">
+                                        <div class="row">
+                                            <div class="col-lg align-self-end">
+                                                <div class="form-group">
+                                                    <div class="form-field">
+                                                        <input type="submit" value="Search" class="form-control btn btn-primary">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg align-items-end">
+                                                <div class="form-group">
+                                                    <label for="#">Select Model</label>
+                                                    <div class="form-field">
+                                                        <div class="select-wrap">
+
+                                                            @Html.Editor("Name", new { htmlAttributes = new { @class = "form-control", placeholder = "type of car" } })
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg align-items-end">
+                                                <div class="form-group">
+                                                    <label for="#">Select Brand</label>
+                                                    <div class="form-field">
+                                                        <div class="select-wrap">
+
+                                                            @Html.Editor("City", new { htmlAttributes = new { @class = "form-control", placeholder = "model of car" } })
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg align-items-end">
+                                                <div class="form-group">
+                                                    <label for="#">Year Model</label>
+                                                    <div class="form-field">
+                                                        <div class="select-wrap">
+
+                                                            @Html.Editor("Street", new { htmlAttributes = new { @class = "form-control", placeholder = "brand of car" } })
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                       
+
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }

@@ -1,0 +1,21 @@
+﻿<div class="col-sm-4">
+    @using (Html.BeginForm("Go_sorting", "Client", FormMethod.Get))
+    {
+    <select name="num" class="form-control">
+        <option value="1"> sorting by Age</option>
+        <option value="2"> sorting by Age Descending</option>
+        <option value="3"> sorting by City</option>
+
+        <option value="4"> sorting by Street</option>
+     
+        <option value="5"> sorting by Name</option>
+      
+        <option value="6"> sorting by Date Of Licience Expiry</option>
+        <option value="7"> sorting by Date Of Licience Expiry Descending</option>
+
+    </select>
+        <input type="submit" value="Sorting" class="btn btn-danger" style="position: relative; left:360px;  bottom:34px;" />
+
+
+    }
+</div>

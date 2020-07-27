@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0e6f2eb2ec764b7daf4e9366437bdd72" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.Agince" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.AspNetRole" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.AspNetUser" Width="1.5" PointX="3" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.Car_properties" Width="1.5" PointX="5.25" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.Car" Width="1.5" PointX="7.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.Client" Width="1.5" PointX="7.5" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Agince_sideHossamCFModel.ReciveDate" Width="1.5" PointX="9.75" PointY="1.5" IsExpanded="true" />
+        <AssociationConnector Association="Agince_sideHossamCFModel.FK_dbo_Aginces_dbo_AspNetUsers_userAccount_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Agince_sideHossamCFModel.FK_dbo_Cars_dbo_Aginces_Agince_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="Agince_sideHossamCFModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="Agince_sideHossamCFModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="Agince_sideHossamCFModel.FK_dbo_ReciveDates_dbo_Cars_cars_Car_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Agince_sideHossamCFModel.FK_dbo_ReciveDates_dbo_Clients_client_Client_ID" ManuallyRouted="false" />
+        <AssociationConnector Association="Agince_sideHossamCFModel.AspNetUserRoles" ManuallyRouted="false" />
+        <AssociationConnector Association="Agince_sideHossamCFModel.Car_And_Properites" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

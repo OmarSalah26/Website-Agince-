@@ -1,0 +1,189 @@
+﻿@model IEnumerable<RoleProject.View_Model.Users_in_Role_ViewModel>
+
+
+
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">Some Options</h1>
+                  
+                  
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+                @Html.Partial("_Search_Users_Partial")
+                @Html.Partial("_Sorting_Users_Partial")
+            </div>
+        </div>
+    </div>
+</div>
+
+@Html.ActionLink("Show aginces Only", "List_Of_All", "Aginces")
+@Html.ActionLink("Show Clients Only", "List_Of_All", "Clients")
+<br />
+
+     @*sorting
+@Ajax.ActionLink("sorting", "sorting", "Account", new AjaxOptions
+    {
+        HttpMethod = "get",
+        UpdateTargetId = "create_2",
+        InsertionMode = InsertionMode.Replace
+    },
+    new
+    {
+        @class = "btn btn-danger",
+
+    })*@
+
+@*Filter
+
+    @Ajax.ActionLink("filter", "filter", "Account", new AjaxOptions
+        {
+            HttpMethod = "get",
+            UpdateTargetId = "create_2",
+            InsertionMode = InsertionMode.Replace
+        },
+        new
+        {
+             @class = "btn btn-danger",
+
+        })*@
+
+
+@*<div id="create_2" style="position: relative; left:0px;  top:25px;"></div>
+<br />
+<br />*@
+
+
+
+@*@Html.Partial("_Search_Users_Partial")*@
+<section>
+    @foreach (var user in Model)
+    {
+
+        <div class="col-4" style="float:left">
+            <div class="testimony-wrap text-center ">
+                <div class="user-img mb-4" style="background-image: url(/Content/autoroad/images/bg_1.jpg)">
+                </div>
+                <div class="text pt-4">
+                    <p class="mb-4"> National Id : @user.UserId</p>
+                    <p class="mb-4">Email : @user.Email</p>
+                    <p class="mb-4">City : @user.city</p>
+                    <p class="mb-4">Street : @user.street</p>
+                    <p class="mb-4"> Phone : @user.phone_number</p>
+                    <p class="name">@user.Username</p>
+                    <span class="position">@user.Role</span>
+                    <div> @Html.ActionLink("Delete", "Delete", new { id = user.UserId })</div>
+                    <div> @Html.ActionLink("Edit", "Edit", new { id = user.UserId })</div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    }
+</section>
+<div>
+    @Html.ActionLink("List of all users", "UsersWithRoles")
+</div>
+
+@section scripts{
+
+
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+}
+
+@*@model IEnumerable<RoleProject.View_Model.Users_in_Role_ViewModel>
+
+
+
+
+
+
+
+    @Html.ActionLink("Show aginces Only", "List_Of_All", "Aginces")
+    @Html.ActionLink("Show Clients Only", "List_Of_All", "Clients")
+    <br />
+
+     sorting
+    @Ajax.ActionLink("sorting", "sorting", "Account", new AjaxOptions
+        {
+            HttpMethod = "get",
+            UpdateTargetId = "create_2",
+            InsertionMode = InsertionMode.Replace
+        },
+        new
+        {
+            @class = "btn btn-danger",
+
+        })
+
+    Filter
+
+        @Ajax.ActionLink("filter", "filter", "Account", new AjaxOptions
+            {
+                HttpMethod = "get",
+                UpdateTargetId = "create_2",
+                InsertionMode = InsertionMode.Replace
+            },
+            new
+            {
+                 @class = "btn btn-danger",
+
+            })
+
+
+    <div style="position: relative; left:750px;  top:25px;">
+        @Html.Partial("_Search_Users_Partial")
+    </div>
+    <div id="create_2" style="position: relative; left:0px;  top:25px;"></div>
+    <br />
+    <br />
+
+
+
+    <table class="table table-hover ">
+        <thead>
+            <tr>
+                <td><b>National ID</b></td>
+                <td><b>Username</b></td>
+                <td><b>Email</b></td>
+                <td><b>City</b></td>
+                <td><b>Street</b></td>
+                <td><b>Phone Number</b></td>
+                <td><b>Roles</b></td>
+            </tr>
+        </thead>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserId</td>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>@user.city</td>
+                <td>@user.street</td>
+                <td>@user.phone_number</td>
+                <td>@user.Role</td>
+
+                <td> @Html.ActionLink("Delete", "Delete", new { id = user.UserId })</td>
+                <td> @Html.ActionLink("Edit", "Edit", new { id = user.UserId })</td>
+            </tr>
+
+        }
+    </table>
+    @Html.ActionLink("List of all users", "UsersWithRoles")
+
+    @section scripts{
+
+
+        <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    }*@

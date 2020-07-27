@@ -1,0 +1,112 @@
+﻿@model RoleProject.Models.Client
+ <link rel="stylesheet" href="~/Content/autoroad/css/css/UpladPhoto_.css">
+@{
+    ViewBag.Title = "Edit";
+    string Image;
+    if (Model.photo_Client != null) { Image = "../../images/" + Model.photo_Client; } else { Image = "../../Content/autoroad/images/Icon_perosn.png";  }
+
+}
+
+
+    <div class="hero-wrap"  style="display:block !important;background-image: url('/Content/autoroad/images/bg_1.jpg');height:1350px ;" data-stellar-background-ratio="0.5">
+        <div class="overlay" style="height:1350px"></div>
+        <div class="container" style="padding:0">
+            <div class="row no-gutters slider-text justify-content-start align-items-center">
+                <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                    <div class="text">
+                        <h1 class="mb-4">Sure <span>To Edit Your Data ?</span> <span></span></h1>
+
+                    </div>
+                </div>
+                <div class="col-lg-2 col"></div>
+                <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+
+
+
+                    @using (Html.BeginForm("Edit", "Clients", new { ReturnUrl = ViewBag.ReturnUrl },
+FormMethod.Post, new { enctype = "multipart/form-data", @class = "request-form ftco-animate", style = "margin-top:45px;", role = "form" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.HiddenFor(model => model.Client_ID)
+
+
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", placeholder = "Nmae" } })
+                                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.age, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.age, new { htmlAttributes = new { @class = "form-control", placeholder = "Age" } })
+                                @Html.ValidationMessageFor(model => model.age, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.street, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.street, new { htmlAttributes = new { @class = "form-control", Placeholder = "City" } })
+                                @Html.ValidationMessageFor(model => model.street, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.city, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.city, new { htmlAttributes = new { @class = "form-control", placeholder = "City" } })
+                                @Html.ValidationMessageFor(model => model.city, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.number_of_licience, htmlAttributes: new { style = "margin-left:16px" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.number_of_licience, new { htmlAttributes = new { @class = "form-control", placeholder = "number_of_licience" } })
+                                @Html.ValidationMessageFor(model => model.number_of_licience, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.phone_Number, htmlAttributes: new { style = "margin-left:16px" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.phone_Number, new { htmlAttributes = new { @class = "form-control", placeholder = "PhoneNuumber" } })
+                                @Html.ValidationMessageFor(model => model.phone_Number, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="container" style="Margin-top:-70px;">
+
+                            <div class="avatar-upload">
+                                <div class="avatar-edit">
+                                    <input type='file' name="photo_path" id="imageUpload" accept=".png, .jpg, .jpeg" />
+                                    <label for="imageUpload"></label>
+                                </div>
+                                <div class="avatar-preview">
+                                    <div id="imagePreview" style="background-image: url('@Image');">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group" style=" margin-left: 13px; Margin-top:-20px;">
+                            <div class="col-md-offset-2 col-md-10">
+
+                                <input type="submit" value="Edit" class="btn btn-primary py-3 px-4" />
+                            </div>
+                        </div>
+
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Content/autoroad/js/PhotoUpload.js"></script>
+}
+
+

@@ -1,0 +1,35 @@
+﻿
+
+
+@if (User.IsInRole("Agince"))
+{
+
+
+
+    <li>@Html.ActionLink("Create Car", "Create", "Cars")</li>
+    <li>@Html.ActionLink("Show List Of All Cars", "List_Of_All", "Cars")</li>
+
+
+
+}
+@if (User.IsInRole("Client"))
+{
+    <li>@Html.ActionLink(" Booking Cars OR show All cars", "List_Of_All", "Cars")</li>
+    <li>@Html.ActionLink("  show All Aginces", "List_Of_All", "Aginces")</li>
+}
+
+@if (User.IsInRole("Admin"))
+{
+
+
+
+    <li>@Html.ActionLink("Register Admin", "register", "Account")</li>
+    <li>@Html.ActionLink("Users", "UsersWithRoles", "Account")</li>
+    <li>@Html.ActionLink(" Roles", "List_Of_All", "Roles")</li>
+ 
+
+
+
+}
+
+

@@ -1,0 +1,131 @@
+﻿@model RoleProject.Models.Car
+
+    <link rel="stylesheet" href="~/Content/autoroad/css/css/UpladPhoto_.css">
+
+@{
+    ViewBag.Title = "Edit";
+      string Image;
+    if (Model.photo_Car != null) { Image = "../../images/" + Model.photo_Car; } else { Image = "../../Content/autoroad/images/iconCar.jpg";  }
+}
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/images/@Model.photo_Car'); height:1400px " data-stellar-background-ratio="0.5">
+    <div class="overlay" style="height:1400px "></div>
+    <div class="container" ">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4">sure to<span>Edit this Car?</span> </h1>
+                    <div>
+                        @Html.ActionLink("Back ", "List_Of_all",null,htmlAttributes:new{ @class="btn btn-primary" })
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex" style="width:400px">
+
+
+
+                @using (Html.BeginForm("Edit", "Cars", FormMethod.Post, new { @class = "request-form ftco-animate", role = "form" ,enctype = "multipart/form-data" , style="position:relative; top:50px; "} ))
+                {
+                    @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <h4>Car</h4>
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.Car_Id)
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Type_Of_Car)
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Type_Of_Car, new { htmlAttributes = new { @class = "form-control", Placeholder = "Type_Of_Car", style = "font-size:15" } })
+                            @Html.ValidationMessageFor(model => model.Type_Of_Car, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Car_Brand)
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Car_Brand, new { htmlAttributes = new { @class = "form-control", Placeholder = "Car_Brand" } })
+                            @Html.ValidationMessageFor(model => model.Car_Brand, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Car_Model)
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Car_Model, new { htmlAttributes = new { @class = "form-control", Placeholder = "Car_Model" } })
+                            @Html.ValidationMessageFor(model => model.Car_Model, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Chassis_No)
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Chassis_No, new { htmlAttributes = new { @class = "form-control", Placeholder = "Chassis_No" } })
+                            @Html.ValidationMessageFor(model => model.Chassis_No, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.price_in_day)
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.price_in_day, new { htmlAttributes = new { @class = "form-control", Placeholder = "Price of Day" } })
+                            @Html.ValidationMessageFor(model => model.price_in_day, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <div class="form-group">
+                        @*@Html.LabelFor(model => model.Agince_Of_Car, "aganis_id", htmlAttributes: new { @class = "control-label col-md-2" })*@
+                        <div class="col-md-10">
+                            @Html.HiddenFor(model => model.Agince_Of_Car.Agince_ID)
+                            @Html.ValidationMessageFor(model => model.Agince_Of_Car.Agince_ID, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+
+                    <div class="avatar-upload">
+                        <div class="avatar-edit">
+                            <input type='file' name="photo_path" id="imageUpload" accept=".png, .jpg, .jpeg" />
+                            <label for="imageUpload"></label>
+                        </div>
+                        <div class="avatar-preview">
+                            <div id="imagePreview" style="background-image: url('@Image');">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Save" class="btn btn-primary py-3 px-4 " />
+                        
+                        </div>
+                    </div>
+                </div>
+                }
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+
+
+

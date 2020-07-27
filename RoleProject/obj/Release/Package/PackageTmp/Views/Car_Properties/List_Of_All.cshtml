@@ -1,0 +1,99 @@
+﻿@using RoleProject.Models
+@model IEnumerable<RoleProject.Models.Car_properties>
+
+@{
+    ViewBag.Title = "Index";
+    Car Car = Session["car_called"] as Car;
+    ApplicationDbContext db = new ApplicationDbContext();
+    Car_And_Properites Exsisit = new Car_And_Properites();
+}
+
+
+
+
+
+
+
+
+
+<div class="hero-wrap" style="background-image: url('/Content/autoroad/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row no-gutters slider-text justify-content-start align-items-center">
+            <div class="col-lg-6 col-md-6 ftco-animate d-flex align-items-end">
+                <div class="text">
+                    <h1 class="mb-4"> properties</h1>
+                    @Html.ActionLink("Back ", "List_Of_All", "Cars", null, htmlAttributes: new { @class = "btn btn-primary" })
+                   
+                </div>
+            </div>
+            <div class="col-lg-2 col"></div>
+            <div class="col-lg-4 col-md-6 mt-0 mt-md-5 d-flex">
+                @using (Html.BeginForm("List_OF_all", "Cars", FormMethod.Post, new { enctype = "multipart/form-data", @class = "request-form ftco-animate" ,style="width:400px;"}))
+
+                {
+                <div style="overflow-y:auto;max-height:400px;overflow-x:hidden">
+                    <table class="table"  >
+                        <tr>
+
+                            @Html.DisplayNameFor(model => model.proprity_Name)
+
+                        </tr>
+                        <hr />
+
+                        @foreach (var item in Model)
+                        {
+                    <tr>
+
+                        @Html.DisplayFor(modelItem => item.proprity_Name)
+
+                        @if (User.IsInRole("Admin"))
+                        {@Html.ActionLink("Edit", "Edit", new { id = item.id })
+                        <span>| </span>
+
+                        @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                        <span>| </span>
+                    }
+                        @if (Car.Car_Id != 0)
+                        {
+
+
+                        
+                        if (db.Car_And_Properites.FirstOrDefault(prop => prop.Car_Id == Car.Car_Id && prop.id == item.id) == null)
+                        {
+                            <a class="btn btn-info" style="margin-left:80%" href="/Cars/Add_properity/@item.id">add</a>
+                        }
+
+                        else
+                        {
+                            <a class="btn btn-danger " style="margin-left:80%" href="/Cars/Delete_properity_From_Car/@item.id">Delete</a>
+                        }
+
+}
+
+
+
+                        <hr />
+
+                    </tr>
+                        }
+
+
+                    </table>
+                </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Done" class="btn btn-primary" />
+                            @if (Car.Car_Id == 0)
+                            {   @Html.ActionLink("Add New", "create", "Car_properties", null, htmlAttributes: new { @class = "btn btn-primary", style = "margin-top:20px;" })
+                }
+
+
+                                </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

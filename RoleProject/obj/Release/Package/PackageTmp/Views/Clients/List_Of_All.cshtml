@@ -1,0 +1,100 @@
+﻿@model IEnumerable<RoleProject.Models.Client>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List of clients </h2>
+
+
+
+
+
+<div id="create_2" style="position: relative; left:-30px;  top:15px;"></div>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Name")
+        </th>
+        <th>
+            @Html.Label("National ID")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.number_of_licience)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date_of_licience_expiry)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.phone_Number)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.city)
+        </th>
+     
+        <th>
+            @Html.DisplayNameFor(model => model.street)
+        </th>
+        <th>
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Client_ID)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.age)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.number_of_licience)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.date_of_licience_expiry)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.phone_Number)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.city)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.street)
+    </td>
+
+    <td>
+        @if (User.IsInRole("Client"))
+        {@Html.ActionLink("Edit", "Edit", new { id = item.Client_ID })
+    <td>|</td>
+}
+
+        </td>
+
+        <td>
+            @Html.ActionLink("Details", "Details", new { id = item.Client_ID })
+        </td>
+
+
+
+    </tr>
+    }
+
+
+</table>
+@Html.ActionLink("Back to list", "List_Of_All")
+@section scripts{
+
+
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+}
